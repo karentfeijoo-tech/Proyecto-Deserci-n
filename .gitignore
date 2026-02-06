@@ -6,3 +6,7 @@
 *.exe
 *.pem
 *.typed
+/venv/Lib/site-packages/setuptools-65.5.0.dist-info
+/venv/Lib/site-packages/setuptools/command
+/venv/Lib/site-packages/setuptools
+/venv
