@@ -1,0 +1,8 @@
+*.py
+*.pyc
+*.pth
+*.txt
+/venv/Lib/site-packages/pip-23.1.2.dist-info
+*.exe
+*.pem
+*.typed
