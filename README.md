@@ -1,16 +1,17 @@
-# 🎓 Predicción de Deserción Estudiantil
+· Predicción de Deserción Estudiantil
 
 Proyecto de Ciencia de Datos e Inteligencia Artificial enfocado en predecir la probabilidad de deserción de estudiantes universitarios utilizando **Regresión Logística** y una aplicación interactiva en **Streamlit**.
 
+
 ---
 
-## 🎯 Objetivo
+· Objetivo
 
 Identificar estudiantes con **alto riesgo de deserción académica** a partir de su desempeño histórico, permitiendo una intervención temprana por parte de la institución.
 
 ---
 
-## 🧠 Modelo Utilizado
+· Modelo Utilizado
 
 - **Regresión Logística**
 - Escalado de variables con `StandardScaler`
@@ -20,7 +21,7 @@ Este modelo permite interpretar fácilmente la influencia de cada variable en la
 
 ---
 
-## 📊 Variables Utilizadas
+· Variables Utilizadas
 
 | Variable | Descripción |
 |--------|------------|
@@ -31,18 +32,10 @@ Este modelo permite interpretar fácilmente la influencia de cada variable en la
 
 > La variable **asistencia** fue descartada por alta correlación con el promedio académico, evitando multicolinealidad.
 
----
 
-## ⚙️ Tecnologías y Librerías
 
-- Python 3.10+
-- Pandas
-- NumPy
-- Scikit-learn
-- Streamlit
-- OpenPyXL
 
----
+
 
 
 
